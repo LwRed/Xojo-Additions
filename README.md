@@ -15,5 +15,6 @@ Historique des versions :
 v0.1 du 17/10/2020
 
 <img src="Capture.jpg" width="640">
+<img src="Capture2.jpg" width="640">
 
 Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
